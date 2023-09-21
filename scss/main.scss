@@ -1,9 +1,9 @@
 @use "normalize";
 @use "fonts";
 @use "sticki-footer";
-@use "geniral";
-@use "verible";
-@use "mixsin";
-@use "./_blocks/block";
-@use "./_blog/blockk";
-@use "./_contact/blocks";
+@import "geniral";
+@import "verible";
+@import "mixsin";
+@import "./_contact/blocks";
+@import "./_blocks/block";
+@import "./_blog/blockk";
